@@ -1,0 +1,6 @@
+{
+  "name": "GC",
+  "description": "GC (Guess Code) is a local two-player code-breaking game where players set a secret code and compete side-by-side to crack each other's code with custom themes, notes, and 10 language options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
